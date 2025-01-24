@@ -1,0 +1,7 @@
+torch
+parler-tts
+transformers==4.46.1
+soundfile
+uvicorn
+fastapi
+pybase64
