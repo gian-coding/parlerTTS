@@ -1,6 +1,6 @@
 torch
 parler-tts
-transformers==4.46.1
+transformers
 soundfile
 uvicorn
 fastapi
